@@ -1,22 +1,25 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="300px" />
 </h1>
 
 <h3 align="center">
-  Todos desafios feitos no modulo - Introdução a Programação WEB
+  Modulo - Introdução a Programação WEB
 </h3>
 
 <p align="center">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  <a href="https://github.com/cleber-santos">
+    <img alt="Made by Cleber" src="https://img.shields.io/badge/Made%20by-Cleber-orange">
   </a>
 
 </p>
 
-## :rocket: Desafios
+## :rocket: Javascript basico + Desafios
 
-### Material das aulas de javascript mais ous desafios propostos durante o LaunchBase - Rocketseat :rocket:
+#### Material das aulas de javascript mais os desafios propostos durante o LaunchBase - Rocketseat
+
+No primeiro módulo do Launchbase chamado "Introdução à programação web", aprendemos os conceitos basicos da linguagem Javascript. E durante as aulas são propostos desafios praticos sobre a linguagem.
+E conforme vamos evoluindo nas aulas os desafios vão aumentando.
 
 ## :memo: Licença
 
