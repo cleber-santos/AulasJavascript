@@ -14,7 +14,7 @@
 
 </p>
 
-## :rocket: Javascript basico + Desafios
+## ✍ Javascript basico + Desafios
 
 #### Material das aulas de javascript mais os desafios propostos durante o LaunchBase - Rocketseat
 
@@ -27,4 +27,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito por Cleber Santos com a [Rocketseat](https://rocketseat.com.br) :wave: [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc)
+Feito por Cleber Santos com a [Rocketseat](https://rocketseat.com.br) :rocket: [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc)
