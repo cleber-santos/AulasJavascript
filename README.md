@@ -14,11 +14,11 @@
 
 </p>
 
-## ✍ Javascript basico + Desafios
+## ✍ Javascript básico + Desafios
 
 #### Material das aulas de javascript mais os desafios propostos durante o LaunchBase - Rocketseat
 
-No primeiro módulo do Launchbase chamado "Introdução à programação web", aprendemos os conceitos basicos da linguagem Javascript. E durante as aulas são propostos desafios praticos sobre a linguagem.
+No primeiro módulo do Launchbase chamado "Introdução à programação web", aprendemos os conceitos básicos da linguagem Javascript. E durante as aulas são propostos desafios práticos sobre a linguagem.
 E conforme vamos evoluindo nas aulas os desafios vão aumentando.
 
 ## :memo: Licença
